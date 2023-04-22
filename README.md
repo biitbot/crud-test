@@ -1,8 +1,8 @@
-Prueba técnica para programador backend en NestJS
+# Prueba técnica para programador backend en NestJS
 Descripción general
 La prueba técnica consiste en implementar una API REST para un sistema de administración de empleados utilizando NestJS y TypeORM. La aplicación permitirá a los usuarios realizar operaciones CRUD en una base de datos de empleados.
 
-Requisitos
+## Requisitos
 Crear un modelo de datos de empleado con las siguientes propiedades:
 
 ID: número entero único (clave primaria)
